@@ -22,7 +22,6 @@
 					<?php include"sidebar.php";?><br><br><br>
 					<h3 class="text">Welcome <?php echo $_SESSION["NAME"]; ?></h3><br><hr><br>
 					<div class="content1">
-						
 
 						<h3 > Add booking Details</h3><br>
 						<?php
